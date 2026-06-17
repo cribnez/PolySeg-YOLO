@@ -47,7 +47,7 @@ Visualizaciones clave del sistema y su rendimiento analítico.
 
 <p align="center">
   <img src="assets/confusion_matrix.png" alt="Matriz de Confusión" width="400">
-  <img src="assets/F1_curve.png" alt="Curva F1 vs Confianza" width="450"><br>
+  <img src="assets/f1_curve.png" alt="Curva F1 vs Confianza" width="450"><br>
   <em>Izquierda: Matriz de confusión de la red. Derecha: Evaluación de la Curva F1-Score para determinar el umbral de confianza óptimo en la arquitectura local.</em>
 </p>
 
