@@ -35,23 +35,19 @@ Este proyecto desarrolla un sistema de visión artificial avanzado, denominado *
 
 ---
 
----
-
 ## 📸 Galería del Proyecto y Análisis Visual
-Visualizaciones clave del sistema y su rendimiento analítico.
+Evidencia experimental de la inferencia y el rendimiento analítico del modelo.
 
 <p align="center">
   <img src="assets/sample_prediction.jpg" alt="Inferencia visual de PolySeg-YOLO" width="550"><br>
-  <em>Inferencia computarizada: Extracción simultánea de caja delimitadora y máscara de segmentación translúcida sobre la mucosa colónica.</em>
+  <em>Figura 1: Inferencia computarizada con extracción simultánea de caja delimitadora y máscara de segmentación translúcida sobre la mucosa colónica.</em>
 </p>
 
 <p align="center">
-  <img src="assets/confusion_matrix.png" alt="Matriz de Confusión" width="400">
-  <img src="assets/F1_curve.png" alt="Curva F1 vs Confianza" width="450"><br>
-  <em>Izquierda: Matriz de confusión de la red. Derecha: Evaluación de la Curva F1-Score para determinar el umbral de confianza óptimo en la arquitectura local.</em>
+  <img src="assets/confusion_matrix.png" alt="Matriz de Confusión" width="380" style="vertical-align: middle; margin: 10px;">
+  <img src="assets/f1_curve.png" alt="Curva F1 vs Confianza" width="420" style="vertical-align: middle; margin: 10px;"><br>
+  <em>Figura 2: Análisis técnico del rendimiento de la red. Izquierda: Matriz de confusión del modelo. Derecha: Evaluación de la Curva F1-Score para la optimización del umbral de confianza.</em>
 </p>
-
----
 
 ---
 
